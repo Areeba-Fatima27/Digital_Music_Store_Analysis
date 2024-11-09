@@ -25,4 +25,4 @@ Return the Name and Milliseconds for each track. Order by the song length with t
 2. Determine the most popular music genre for each country based on the highest purchase count. Return to each country with its top genre(s).
 3. Identify the top-spending customer for each country. For countries where multiple customers share the highest amount spent, return all such customers along with their spending totals.
 
-#### By addressing these questions, this project will provide valuable insights into customer behavior, popular music trends, and areas for potential promotional activities. Analysis Overview
+#### By addressing these questions, this project will provide valuable insights into customer behavior, popular music genre, and Countries for potential promotional activities. 
